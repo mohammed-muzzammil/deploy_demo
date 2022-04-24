@@ -1,4 +1,2 @@
 streamlit
 pandas
-numpy
-streamlit_authenticator==0.1.1

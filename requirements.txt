@@ -1,1 +1,8 @@
-streamlit
+numpy
+seaborn
+pandas
+matplotlib
+XlsxWriter
+xlrd
+cx_Oracle
+scikit_learn
